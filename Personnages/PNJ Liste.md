@@ -1,0 +1,14 @@
+Ou PNJ, c'est le **Maître de Jeu** qui les anime. 
+
+## Personnages de la Guilde : 
+- Volkar le Magnifique - *fondateur de la guilde, que personne ne connait*
+- Mirage - *votre hôtesse privilégiée* 
+- Nélen - *le tenancier de la taverne de la guilde* 
+
+## Empire d'Orkozz 
+### Nimbas, capitale de l'empire et ville de la Guilde 
+- Parel Refgaral - *Chef du culte de la Lumière en Orkozz et dans le monde*
+  - Fils Manraha - *Membre du culte de la Lumière*
+- Parel Minalla - *Cheffe du culte des Ténèbres en Orkozz* 
+- Parel Erzilla - *Cheffe du culte de la Nature en Orkozz* 
+- Pareil Frenlon - *Chef du culte de la Technomagie en Orkozz* 
