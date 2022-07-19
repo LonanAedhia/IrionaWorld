@@ -29,13 +29,15 @@ Créer son personnage n'est pas très compliqué. Le jeu ne repose pas sur des s
   - Potentiellement bons en tout. Potentiellement mauvais en tout. 
 - **Liankars** : 
   - Espèce fragile, gracile, plus petite qu'un humain moyen. Vit surtout dans les pays à climat tempéré et doux. Médecine et magie développées dues à leur constitution fragile. Essentiellement des artistes et des intellectuels. 
-  - Potentiellement bonne voire excellent en : Magie et Talent. 
+  - Potentiellement bonne voire excellent en : Magie et Talent Artistiques et Intellectuels. 
   - Potentiellement mauvaises voire  catastrophique en : Résistance et Combats. 
 - **Rordes**
   - Une espèce robuste, solide et rude, peu sensible aux arts, peu émotive et à sang froid. Ils vivent partout, et profitent de leur robustesse pour coloniser des milieux peu favorables aux autres espèces. Plus grands et plus costauds que l'humain moyen. 
-  - Potentiellement bons voire excellents en : Combats et Résistance.
-  - Potentiellement mauvais voire catastrophique en : Magie et Talent. 
+  - Potentiellement bons voire excellents en : Combats et Résistance, Talents "de force".
+  - Potentiellement mauvais voire catastrophique en : Magie et Talent "délicats" ou relationnels. 
 
 ### 3.Définir son histoire : 
 À ce stade, les prochains se font plus en moins en parallèle des uns des autres. L'histoire de votre personnage et son espèce détermineront si votre personnage est plus susceptible de pratiquer une magie d'un élément ou d'un autre, ou son métier. 
 
+Exemples : 
+- Vous êtes un fermier Rorde désargenté, vivant dans les terres agricoles de Nimbas. Votre terre appartenait à vos beaux-parents, l'exploitation à vous et votre épouse. Lorsque votre épouse est morte, ils vous ont expulsé, récupérant votre exploitation. Vous espérez gagner suffisamment d'or pour racheter vos terres. Vous priez les dieux de la nature et bien que vous ne soyez pas doué pour la magie, comme tous les Rordes, votre bonté vous assure l'oreille d'Erzala, déesse de la nature et des soins, et vous ne mourrez jamais de faim quand vous cherchez votre nourriture dans la nature. Vous espérez apprendre le combat et manier votre hache pour autre chose que de couper les arbres, afin d'obtenir des missions plus intéressantes au sein de la guilde. 
